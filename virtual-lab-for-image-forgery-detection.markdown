@@ -1,5 +1,5 @@
 ---
 title: Virtual Lab for Image forgery Detection
-date: 2017-02-14 07:54:00 Z
+date: 2017-02-14 13:24:00 +05:30
 ---
 
